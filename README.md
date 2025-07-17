@@ -17,7 +17,7 @@ The live website can be viewed here: [https://wendysunny.github.io/windows-to-ma
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone [https://wendysunny.github.io/windows-to-mac-guide/](https://wendysunny.github.io/windows-to-mac-guide/)
     ```
 2.  **Open `index.html`:** Open the `index.html` file in any modern web browser to use the application locally.
 3.  **Deploy:** The site is ready to be deployed on any static web host, such as GitHub Pages.
